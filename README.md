@@ -21,19 +21,19 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="PHP" width="26px" src="https://coderlog.top/github/icons/php.svg" />
+<img align="left" alt="Python" width="26px" src="https://coderlog.top/github/icons/python.svg" />
+<img align="left" alt="Django" width="26px" src="https://coderlog.top/github/icons/django.svg" />
+<img align="left" alt="XML" width="26px" src="https://coderlog.top/github/icons/xml.svg" />
+<img align="left" alt="JSON" width="26px" src="https://coderlog.top/github/icons/json.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Linux" width="26px" src="https://coderlog.top/github/icons/linux.svg" />
 
 </br></br>
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [КАК СТАТЬ ПРОГРАММИСТОМ С НУЛЯ В 2020? | Ответ от профессионала](https://www.youtube.com/watch?v=njd4-r84638)
-- [Определяем лицо на фотографии | PHP](https://www.youtube.com/watch?v=ilc0fMm0Wd4)
-- [Проверяем целостность файлов. Хеш сумма файлов (контрольная сумма файла) | Python](https://www.youtube.com/watch?v=NCTvNhgW87s)
-- [Настройка Vim. Установка плагинов vundle. Готовый конфиг .vimrc](https://www.youtube.com/watch?v=8MBDgWadRNE)
-- [Скачиваем музыку с YouTube с помощью телеграм бота на Python](https://www.youtube.com/watch?v=A7fhsEa9qos)
 <!-- YOUTUBE:END -->
 
 ### Github stats
