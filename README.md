@@ -43,3 +43,5 @@
 
 ### Github stats
 <img align="left" alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alexborsch&show_icons=true&hide_border=true" />
+### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexborsch)]
