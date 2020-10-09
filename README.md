@@ -16,8 +16,11 @@
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Собираем домашний сервер из старого ПК](https://coderlog.top/blog.php?id=2)
 <!-- BLOG-POST-LIST:END -->
+</br></br>
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 </br></br>
 ### Languages and Tools:
 
