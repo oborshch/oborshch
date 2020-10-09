@@ -13,16 +13,17 @@
 [<img align="left" alt="Linkedin" width="22px" src="https://coderlog.top/github/icons/linkedin.svg" />](https://www.linkedin.com/in/alexander-borshch-9a5b38189)
 
 </br></br>
-### Latest blog posts
+### 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 </br></br>
 ### 📺 Latest YouTube Videos
+
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 </br></br>
-### Languages and Tools:
+### 🖥️ Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
