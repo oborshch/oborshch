@@ -16,6 +16,8 @@
 ### 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Новый релиз GitLab 13.4 с хранилищем HashiCorp для переменных CI и Kubernetes Agent](https://coderlog.top/blog.php?id=3)
+- [Представлен релиз нового ядра Linux 5.9 | Что нового?](https://coderlog.top/blog.php?id=2)
 - [Собираем домашний сервер из старого ПК](https://coderlog.top/blog.php?id=1)
 <!-- BLOG-POST-LIST:END -->
 </br></br>
