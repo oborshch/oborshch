@@ -16,11 +16,11 @@
 ### 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Слежка за детьми. Китайские часы Xplora 4 тайно делают фото и записывают аудио](https://coderlog.top/blog.php?id=11)
 - [Apple представила новый iPhone 12 с поддержкой 5G](https://coderlog.top/blog.php?id=10)
 - [Умная колонка от Apple, HomePod mini за копейки | $99](https://coderlog.top/blog.php?id=7)
 - [iPhone 12 и мини-версия HomePod](https://coderlog.top/blog.php?id=6)
 - [На Facebook запретили отрицание Холокоста](https://coderlog.top/blog.php?id=4)
-- [Новый релиз GitLab 13.4 с хранилищем HashiCorp для переменных CI и Kubernetes Agent](https://coderlog.top/blog.php?id=3)
 <!-- BLOG-POST-LIST:END -->
 </br></br>
 ### 📺 Latest YouTube Videos
