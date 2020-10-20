@@ -1,4 +1,6 @@
-### Hi there, I'm Alex 👋
+### Hi there, I'm Alex 👋 
+
+<img src="https://komarev.com/ghpvc/?username=alexborsch&style=flat">
 
 ## I'm a Software engineer!
 - 📝 Author of CoderLog blog
