@@ -18,21 +18,11 @@
 ### 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Слежка за детьми. Китайские часы Xplora 4 тайно делают фото и записывают аудио](https://coderlog.top/blog.php?id=11)
-- [Apple представила новый iPhone 12 с поддержкой 5G](https://coderlog.top/blog.php?id=10)
-- [Умная колонка от Apple, HomePod mini за копейки | $99](https://coderlog.top/blog.php?id=7)
-- [iPhone 12 и мини-версия HomePod](https://coderlog.top/blog.php?id=6)
-- [На Facebook запретили отрицание Холокоста](https://coderlog.top/blog.php?id=4)
 <!-- BLOG-POST-LIST:END -->
 </br></br>
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [ДОМАШНИЙ СЕРВЕР #1 | ПОДКЛЮЧАЕМСЯ К СЕРВЕРУ ИЗ ИНТЕРНЕТА | CDLSSH Client](https://www.youtube.com/watch?v=adWX4Tj1U-8)
-- [КАК СТАТЬ ПРОГРАММИСТОМ С НУЛЯ В 2020? | Ответ от профессионала](https://www.youtube.com/watch?v=njd4-r84638)
-- [Определяем лицо на фотографии | PHP](https://www.youtube.com/watch?v=ilc0fMm0Wd4)
-- [Проверяем целостность файлов. Хеш сумма файлов (контрольная сумма файла) | Python](https://www.youtube.com/watch?v=NCTvNhgW87s)
-- [Настройка Vim. Установка плагинов vundle. Готовый конфиг .vimrc](https://www.youtube.com/watch?v=8MBDgWadRNE)
 <!-- YOUTUBE:END -->
 </br></br>
 ### 🖥️ Languages and Tools:
