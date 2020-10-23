@@ -18,11 +18,11 @@
 ### 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Релиз Steam Proton 5.13](https://coderlog.top/blog.php?id=12)
-- [Слежка за детьми. Китайские часы Xplora 4 тайно делают фото и записывают аудио](https://coderlog.top/blog.php?id=11)
-- [Apple представила новый iPhone 12 с поддержкой 5G](https://coderlog.top/blog.php?id=10)
-- [Умная колонка от Apple, HomePod mini за копейки | $99](https://coderlog.top/blog.php?id=7)
-- [iPhone 12 и мини-версия HomePod](https://coderlog.top/blog.php?id=6)
+- [DeepMind открыла код FermiNet, нейросети, которая симулирует поведение электронов](https://coderlog.top/blog.php?id=20)
+- [В Telegram обнаружили сеть платных ботов DeepNude](https://coderlog.top/blog.php?id=19)
+- [Far Manager портировали на Linux](https://coderlog.top/blog.php?id=18)
+- [Битва малинок или как Raspberry Pi Spy пожаловался на преследование со стороны Raspberry Pi из-за схожего названия.](https://coderlog.top/blog.php?id=17)
+- [Microsoft EDGE для Linux | Microsoft выпустили свой браузер EDGE для Linux](https://coderlog.top/blog.php?id=13)
 <!-- BLOG-POST-LIST:END -->
 </br></br>
 ### 📺 Latest YouTube Videos
