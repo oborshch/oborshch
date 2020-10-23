@@ -18,11 +18,11 @@
 ### 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Сертификаты от GitHub для разработчиков](https://coderlog.top/blog.php?id=27)
+- [Ubuntu 20.10 «Groovy Gorilla» отдельно фокусируется на Raspberry Pi](https://coderlog.top/blog.php?id=23)
+- [Видеокарты от AMD на базе GPU Navi 10 для майнинга криптовалюты](https://coderlog.top/blog.php?id=22)
+- [Google Music больше нет! Google остановила работу Google Play Music](https://coderlog.top/blog.php?id=21)
 - [DeepMind открыла код FermiNet, нейросети, которая симулирует поведение электронов](https://coderlog.top/blog.php?id=20)
-- [В Telegram обнаружили сеть платных ботов DeepNude](https://coderlog.top/blog.php?id=19)
-- [Far Manager портировали на Linux](https://coderlog.top/blog.php?id=18)
-- [Битва малинок или как Raspberry Pi Spy пожаловался на преследование со стороны Raspberry Pi из-за схожего названия.](https://coderlog.top/blog.php?id=17)
-- [Microsoft EDGE для Linux | Microsoft выпустили свой браузер EDGE для Linux](https://coderlog.top/blog.php?id=13)
 <!-- BLOG-POST-LIST:END -->
 </br></br>
 ### 📺 Latest YouTube Videos
