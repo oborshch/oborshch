@@ -18,11 +18,11 @@
 ### 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [У YouTube закончилось место для рекламы на кануне выборов в США](https://coderlog.top/blog.php?id=30)
+- [Новый SSD-контроллер Phison E18 обеспечит скорость до 7,4 Гбайт/с](https://coderlog.top/blog.php?id=29)
+- [Новое меню Пуск в обновлении Windows 10 October 2020 Update](https://coderlog.top/blog.php?id=28)
 - [Сертификаты от GitHub для разработчиков](https://coderlog.top/blog.php?id=27)
 - [Ubuntu 20.10 «Groovy Gorilla» отдельно фокусируется на Raspberry Pi](https://coderlog.top/blog.php?id=23)
-- [Видеокарты от AMD на базе GPU Navi 10 для майнинга криптовалюты](https://coderlog.top/blog.php?id=22)
-- [Google Music больше нет! Google остановила работу Google Play Music](https://coderlog.top/blog.php?id=21)
-- [DeepMind открыла код FermiNet, нейросети, которая симулирует поведение электронов](https://coderlog.top/blog.php?id=20)
 <!-- BLOG-POST-LIST:END -->
 </br></br>
 ### 📺 Latest YouTube Videos
