@@ -18,11 +18,11 @@
 ### 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [iPhone 12 и iPhone 12 Pro оказались не ремонтопригодными по мнению iFixit](https://coderlog.top/blog.php?id=31)
 - [У YouTube закончилось место для рекламы на кануне выборов в США](https://coderlog.top/blog.php?id=30)
 - [Новый SSD-контроллер Phison E18 обеспечит скорость до 7,4 Гбайт/с](https://coderlog.top/blog.php?id=29)
 - [Новое меню Пуск в обновлении Windows 10 October 2020 Update](https://coderlog.top/blog.php?id=28)
 - [Сертификаты от GitHub для разработчиков](https://coderlog.top/blog.php?id=27)
-- [Ubuntu 20.10 «Groovy Gorilla» отдельно фокусируется на Raspberry Pi](https://coderlog.top/blog.php?id=23)
 <!-- BLOG-POST-LIST:END -->
 </br></br>
 ### 📺 Latest YouTube Videos
