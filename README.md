@@ -18,11 +18,11 @@
 ### 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Код youtube-dl распространяют на альтернативных платформах, в виде картинок и с помощью уязвимости GitHub](https://coderlog.top/blog.php?id=35)
+- [X.Org Server предложили признать заброшенным проектом](https://coderlog.top/blog.php?id=34)
 - [Репозиторий youtube-dl удален с GitHub за нарушение DMCA](https://coderlog.top/blog.php?id=33)
 - [В Epic Games Store проходит «Распродажа на Хэллоуин 2020» и бесплатная раздача игр Costume Quest 2 и Layers of Fear 2](https://coderlog.top/blog.php?id=32)
 - [iPhone 12 и iPhone 12 Pro оказались не ремонтопригодными по мнению iFixit](https://coderlog.top/blog.php?id=31)
-- [У YouTube закончилось место для рекламы на кануне выборов в США](https://coderlog.top/blog.php?id=30)
-- [Новый SSD-контроллер Phison E18 обеспечит скорость до 7,4 Гбайт/с](https://coderlog.top/blog.php?id=29)
 <!-- BLOG-POST-LIST:END -->
 </br></br>
 ### 📺 Latest YouTube Videos
