@@ -18,11 +18,11 @@
 ### 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [В iPhone 12 нашли функцию обратной зарядки. Она пока не работает](https://coderlog.top/blog.php?id=38)
 - [Apple создают свой поисковик](https://coderlog.top/blog.php?id=37)
 - [Facebook объявила живого пользователя мёртвым](https://coderlog.top/blog.php?id=36)
 - [Код youtube-dl распространяют на альтернативных платформах, в виде картинок и с помощью уязвимости GitHub](https://coderlog.top/blog.php?id=35)
 - [X.Org Server предложили признать заброшенным проектом](https://coderlog.top/blog.php?id=34)
-- [Репозиторий youtube-dl удален с GitHub за нарушение DMCA](https://coderlog.top/blog.php?id=33)
 <!-- BLOG-POST-LIST:END -->
 </br></br>
 ### 📺 Latest YouTube Videos
