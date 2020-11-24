@@ -18,11 +18,11 @@
 ### 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Бесплатный UI/UX Meetup 24 ноября (вторник)](https://coderlog.top/news.php?id=45)
-- [Новый Auto Layout от Figma](https://coderlog.top/news.php?id=44)
-- [Приложение Go SMS Pro раскрывает данные миллионов пользователей по ссылкам](https://coderlog.top/news.php?id=43)
-- [Tesla начала продавать USB-флешки](https://coderlog.top/news.php?id=42)
-- [Новые патчи Linux защищают процессоры Intel от последних уязвимостей, так что Hyper-Threading можно не отключать](https://coderlog.top/news.php?id=41)
+- [Google Вебмастер будет переименован в Центр поиска Google](https://coderlog.top/news.php?id=50)
+- [7 правил для написания чистого кода](https://coderlog.top/news.php?id=49)
+- [ТОП-10 лучших библиотек для программирования на Python](https://coderlog.top/news.php?id=48)
+- [Solar appScreener - сканера программного кода обновили](https://coderlog.top/news.php?id=47)
+- [Доступен пакетный менеджер GNU Guix 1.2 и дистрибутив на его основе](https://coderlog.top/news.php?id=46)
 <!-- BLOG-POST-LIST:END -->
 </br></br>
 ### 📺 Latest YouTube Videos
