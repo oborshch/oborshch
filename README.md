@@ -28,11 +28,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ЧАТ БОТ VIBER НА PHP #1](https://www.youtube.com/watch?v=ATF7tN69xoQ)
 - [ТОКСИЧНОЕ КОМЬЮНИТИ LINUX ИЛИ КАК ПРОСТО ПЕРЕЙТИ С WINDOWS НА LINUX | ВЫБОР ДИСТРИБУТИВА, СОФТ](https://www.youtube.com/watch?v=ifydUW3KbEE)
 - [ДОМАШНИЙ СЕРВЕР #1 | ПОДКЛЮЧАЕМСЯ К СЕРВЕРУ ИЗ ИНТЕРНЕТА | CDLSSH Client](https://www.youtube.com/watch?v=adWX4Tj1U-8)
 - [КАК СТАТЬ ПРОГРАММИСТОМ С НУЛЯ В 2020? | Ответ от профессионала](https://www.youtube.com/watch?v=njd4-r84638)
 - [Определяем лицо на фотографии | PHP](https://www.youtube.com/watch?v=ilc0fMm0Wd4)
-- [Проверяем целостность файлов. Хеш сумма файлов (контрольная сумма файла) | Python](https://www.youtube.com/watch?v=NCTvNhgW87s)
 <!-- YOUTUBE:END -->
 </br></br>
 ### 🖥️ Languages and Tools:
