@@ -18,21 +18,11 @@
 ### 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Тренды SEO на 2021 год. Часть 2](https://coderlog.top/news.php?id=56)
-- [StreamHERO - Украинский стриминговый стартап привлек $550 000](https://coderlog.top/news.php?id=54)
-- [Тренды SEO на 2021 год. Часть 1](https://coderlog.top/news.php?id=55)
-- [Список самых опасных для конфиденциальности гаджетов](https://coderlog.top/news.php?id=53)
-- [Spotify сбросил около 350 тысяч паролей из-за утечки данных](https://coderlog.top/news.php?id=52)
 <!-- BLOG-POST-LIST:END -->
 </br></br>
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [ЧАТ БОТ VIBER НА PHP #1](https://www.youtube.com/watch?v=ATF7tN69xoQ)
-- [ТОКСИЧНОЕ КОМЬЮНИТИ LINUX ИЛИ КАК ПРОСТО ПЕРЕЙТИ С WINDOWS НА LINUX | ВЫБОР ДИСТРИБУТИВА, СОФТ](https://www.youtube.com/watch?v=ifydUW3KbEE)
-- [ДОМАШНИЙ СЕРВЕР #1 | ПОДКЛЮЧАЕМСЯ К СЕРВЕРУ ИЗ ИНТЕРНЕТА | CDLSSH Client](https://www.youtube.com/watch?v=adWX4Tj1U-8)
-- [КАК СТАТЬ ПРОГРАММИСТОМ С НУЛЯ В 2020? | Ответ от профессионала](https://www.youtube.com/watch?v=njd4-r84638)
-- [Определяем лицо на фотографии | PHP](https://www.youtube.com/watch?v=ilc0fMm0Wd4)
 <!-- YOUTUBE:END -->
 </br></br>
 ### 🖥️ Languages and Tools:
