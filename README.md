@@ -18,6 +18,11 @@
 ### 📝 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Netflix открыла исходный код data science фреймворка Metaflow](https://coderlog.top/programmirovanie/netflix-otkryla-ishodnyj-kod-data-science-frejmvorka-metaflow/)
+- [FireEye, ведущая фирма кибербезопасности заявила что её взломали](https://coderlog.top/itnovosti/fireeye-vedushhaya-firma-kiberbezopasnosti-zayavila-chto-ejo-vzlomali/)
+- [Microsoft Office для Big Sur, Mac на базе M1](https://coderlog.top/itnovosti/microsoft-office-dlya-big-sur-mac-na-baze-m1/)
+- [Какая разница между CI и CD?](https://coderlog.top/administrirovanie/kakaya-raznica-mezhdu-ci-i-cd/)
+- [Apple AirPods Max — первые охватывающие наушники от Apple](https://coderlog.top/itnovosti/apple-airpods-max-pervye-ohvatyvajushhie-naushniki-ot-apple/)
 <!-- BLOG-POST-LIST:END -->
 </br></br>
 ### 📺 Latest YouTube Videos
