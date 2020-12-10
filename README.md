@@ -35,7 +35,7 @@
 </br>
 </br>
 
-### 📝 Latest blog posts
+### 📝 CoderLog RSS Feed
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
