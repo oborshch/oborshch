@@ -23,6 +23,11 @@
 - [Microsoft Office для Big Sur, Mac на базе M1](https://coderlog.top/itnovosti/microsoft-office-dlya-big-sur-mac-na-baze-m1/)
 - [Какая разница между CI и CD?](https://coderlog.top/administrirovanie/kakaya-raznica-mezhdu-ci-i-cd/)
 - [Apple AirPods Max — первые охватывающие наушники от Apple](https://coderlog.top/itnovosti/apple-airpods-max-pervye-ohvatyvajushhie-naushniki-ot-apple/)
+- [Почему нельзя использовать «data» в качестве имени переменной](https://coderlog.top/programmirovanie/data-v-kachestve-imeni-peremennoy/)
+- [Текстовый редактор на Python (Tkinter)](https://coderlog.top/programmirovanie/tekstovyj-redaktor-na-python-tkinter/)
+- [20 бесплатных инструментов для разработчиков в 2020 году](https://coderlog.top/programmirovanie/20-besplatnyh-instrumentov-dlya-razrabotchikov-v-2020-godu/)
+- [Линус Торвальдс объявил о релизе ядра Linux 5.10 RC7](https://coderlog.top/linux/linus-torvalds-obyavil-o-relize-yadra-linux-5-10-rc7/)
+- [Новые процессоры Qualcomm для премиум смартфонов 2021 года](https://coderlog.top/itnovosti/novye-processory-qualcomm-dlya-premium-smartfonov-2021-goda/)
 <!-- BLOG-POST-LIST:END -->
 </br></br>
 ### 📺 Latest YouTube Videos
