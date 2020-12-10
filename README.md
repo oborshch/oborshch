@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=alexborsch&style=flat">
 
 ## I'm a Software engineer!
-- 📝 Author of CoderLog blog
+- 📝 Author of CoderLog IT News Portal
 - 📺 Author of the CoderLog YouTube channel
 - 🖥️ I develop web-sites and desktop software
 
@@ -14,31 +14,6 @@
 [<img align="left" alt="Twitter" width="22px" src="https://coderlog.top/github/icons/twitter.svg" />](https://twitter.com/borsch_alex)
 [<img align="left" alt="Linkedin" width="22px" src="https://coderlog.top/github/icons/linkedin.svg" />](https://www.linkedin.com/in/alexander-borshch-9a5b38189)
 
-</br></br>
-### 📝 Latest blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Netflix открыла исходный код data science фреймворка Metaflow](https://coderlog.top/programmirovanie/netflix-otkryla-ishodnyj-kod-data-science-frejmvorka-metaflow/)
-- [FireEye, ведущая фирма кибербезопасности заявила что её взломали](https://coderlog.top/itnovosti/fireeye-vedushhaya-firma-kiberbezopasnosti-zayavila-chto-ejo-vzlomali/)
-- [Microsoft Office для Big Sur, Mac на базе M1](https://coderlog.top/itnovosti/microsoft-office-dlya-big-sur-mac-na-baze-m1/)
-- [Какая разница между CI и CD?](https://coderlog.top/administrirovanie/kakaya-raznica-mezhdu-ci-i-cd/)
-- [Apple AirPods Max — первые охватывающие наушники от Apple](https://coderlog.top/itnovosti/apple-airpods-max-pervye-ohvatyvajushhie-naushniki-ot-apple/)
-- [Почему нельзя использовать «data» в качестве имени переменной](https://coderlog.top/programmirovanie/data-v-kachestve-imeni-peremennoy/)
-- [Текстовый редактор на Python (Tkinter)](https://coderlog.top/programmirovanie/tekstovyj-redaktor-na-python-tkinter/)
-- [20 бесплатных инструментов для разработчиков в 2020 году](https://coderlog.top/programmirovanie/20-besplatnyh-instrumentov-dlya-razrabotchikov-v-2020-godu/)
-- [Линус Торвальдс объявил о релизе ядра Linux 5.10 RC7](https://coderlog.top/linux/linus-torvalds-obyavil-o-relize-yadra-linux-5-10-rc7/)
-- [Новые процессоры Qualcomm для премиум смартфонов 2021 года](https://coderlog.top/itnovosti/novye-processory-qualcomm-dlya-premium-smartfonov-2021-goda/)
-<!-- BLOG-POST-LIST:END -->
-</br></br>
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [ЧАТ БОТ VIBER НА PHP #1](https://www.youtube.com/watch?v=ATF7tN69xoQ)
-- [ТОКСИЧНОЕ КОМЬЮНИТИ LINUX ИЛИ КАК ПРОСТО ПЕРЕЙТИ С WINDOWS НА LINUX | ВЫБОР ДИСТРИБУТИВА, СОФТ](https://www.youtube.com/watch?v=ifydUW3KbEE)
-- [ДОМАШНИЙ СЕРВЕР #1 | ПОДКЛЮЧАЕМСЯ К СЕРВЕРУ ИЗ ИНТЕРНЕТА | CDLSSH Client](https://www.youtube.com/watch?v=adWX4Tj1U-8)
-- [КАК СТАТЬ ПРОГРАММИСТОМ С НУЛЯ В 2020? | Ответ от профессионала](https://www.youtube.com/watch?v=njd4-r84638)
-- [Определяем лицо на фотографии | PHP](https://www.youtube.com/watch?v=ilc0fMm0Wd4)
-<!-- YOUTUBE:END -->
 </br></br>
 ### 🖥️ Languages and Tools:
 
@@ -60,8 +35,13 @@
 </br>
 </br>
 
-### Github stats
-<img align="left" alt="Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alexborsch&show_icons=true&hide_border=true&include_all_commits=true" />
-</br>
-<img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexborsch&hide_border=true" />
+### 📝 Latest blog posts
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+</br></br>
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+</br></br>
