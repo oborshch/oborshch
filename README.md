@@ -38,6 +38,7 @@
 ### 📝 CoderLog RSS Feed
 
 <!-- BLOG-POST-LIST:START -->
+- [Stonksmaster: Прогнозируйте цены на акции с помощью Python & ML](https://coderlog.top/programmirovanie/stonksmaster-prognozirujte-ceny-na-akcii-s-pomoshhju-python-ml/)
 - [Netflix открыла исходный код data science фреймворка Metaflow](https://coderlog.top/programmirovanie/netflix-otkryla-ishodnyj-kod-data-science-frejmvorka-metaflow/)
 - [FireEye, ведущая фирма кибербезопасности заявила что её взломали](https://coderlog.top/itnovosti/fireeye-vedushhaya-firma-kiberbezopasnosti-zayavila-chto-ejo-vzlomali/)
 - [Microsoft Office для Big Sur, Mac на базе M1](https://coderlog.top/itnovosti/microsoft-office-dlya-big-sur-mac-na-baze-m1/)
@@ -47,7 +48,6 @@
 - [Текстовый редактор на Python (Tkinter)](https://coderlog.top/programmirovanie/tekstovyj-redaktor-na-python-tkinter/)
 - [20 бесплатных инструментов для разработчиков в 2020 году](https://coderlog.top/programmirovanie/20-besplatnyh-instrumentov-dlya-razrabotchikov-v-2020-godu/)
 - [Линус Торвальдс объявил о релизе ядра Linux 5.10 RC7](https://coderlog.top/linux/linus-torvalds-obyavil-o-relize-yadra-linux-5-10-rc7/)
-- [Новые процессоры Qualcomm для премиум смартфонов 2021 года](https://coderlog.top/itnovosti/novye-processory-qualcomm-dlya-premium-smartfonov-2021-goda/)
 <!-- BLOG-POST-LIST:END -->
 </br></br>
 ### 📺 Latest YouTube Videos
