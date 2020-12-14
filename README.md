@@ -38,6 +38,7 @@
 ### 📝 CoderLog RSS Feed
 
 <!-- BLOG-POST-LIST:START -->
+- [Обновление основного алгоритма December 2020 Core Update [Анализ]](https://coderlog.top/seo/obnovlenie-osnovnogo-algoritma-december-2020-core-pdate-analiz/)
 - [Stonksmaster: Прогнозируйте цены на акции с помощью Python & ML](https://coderlog.top/programmirovanie/stonksmaster-prognozirujte-ceny-na-akcii-s-pomoshhju-python-ml/)
 - [Netflix открыла исходный код data science фреймворка Metaflow](https://coderlog.top/programmirovanie/netflix-otkryla-ishodnyj-kod-data-science-frejmvorka-metaflow/)
 - [FireEye, ведущая фирма кибербезопасности заявила что её взломали](https://coderlog.top/itnovosti/fireeye-vedushhaya-firma-kiberbezopasnosti-zayavila-chto-ejo-vzlomali/)
@@ -47,7 +48,6 @@
 - [Почему нельзя использовать «data» в качестве имени переменной](https://coderlog.top/programmirovanie/data-v-kachestve-imeni-peremennoy/)
 - [Текстовый редактор на Python (Tkinter)](https://coderlog.top/programmirovanie/tekstovyj-redaktor-na-python-tkinter/)
 - [20 бесплатных инструментов для разработчиков в 2020 году](https://coderlog.top/programmirovanie/20-besplatnyh-instrumentov-dlya-razrabotchikov-v-2020-godu/)
-- [Линус Торвальдс объявил о релизе ядра Linux 5.10 RC7](https://coderlog.top/linux/linus-torvalds-obyavil-o-relize-yadra-linux-5-10-rc7/)
 <!-- BLOG-POST-LIST:END -->
 </br></br>
 ### 📺 Latest YouTube Videos
