@@ -38,6 +38,7 @@
 ### 📝 CoderLog RSS Feed
 
 <!-- BLOG-POST-LIST:START -->
+- [30 клавиатурных сокращений для Mac, о которых вы должны знать](https://coderlog.top/administrirovanie/30-klaviaturnyh-sokrashhenij-dlya-mac-o-kotoryh-vy-dolzhny-znat/)
 - [Правила безопасности Firebase](https://coderlog.top/bezopasnost/pravila-bezopasnosti-firebase/)
 - [Обновление основного алгоритма December 2020 Core Update [Анализ]](https://coderlog.top/seo/obnovlenie-osnovnogo-algoritma-december-2020-core-pdate-analiz/)
 - [Stonksmaster: Прогнозируйте цены на акции с помощью Python & ML](https://coderlog.top/programmirovanie/stonksmaster-prognozirujte-ceny-na-akcii-s-pomoshhju-python-ml/)
@@ -47,7 +48,6 @@
 - [Какая разница между CI и CD?](https://coderlog.top/administrirovanie/kakaya-raznica-mezhdu-ci-i-cd/)
 - [Apple AirPods Max — первые охватывающие наушники от Apple](https://coderlog.top/itnovosti/apple-airpods-max-pervye-ohvatyvajushhie-naushniki-ot-apple/)
 - [Почему нельзя использовать «data» в качестве имени переменной](https://coderlog.top/programmirovanie/data-v-kachestve-imeni-peremennoy/)
-- [Текстовый редактор на Python (Tkinter)](https://coderlog.top/programmirovanie/tekstovyj-redaktor-na-python-tkinter/)
 <!-- BLOG-POST-LIST:END -->
 </br></br>
 ### 📺 Latest YouTube Videos
