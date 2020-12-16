@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=alexborsch&style=flat">
 
 ## I'm a Software engineer!
-- 📝 Author of CoderLog IT News Portal
+- 📝 Author of [CoderLog IT News Portal](https://github.com/alexborsch/coderlog)
 - 📺 Author of the CoderLog YouTube channel
 - 🖥️ I develop web-sites and desktop software
 
@@ -35,28 +35,3 @@
 </br>
 </br>
 
-### 📝 CoderLog RSS Feed
-
-<!-- BLOG-POST-LIST:START -->
-- [Как получить уведомление о падении сайта, используя Bash и Python?](https://coderlog.top/programmirovanie/kak-poluchit-uvedomlenie-o-padenii-sajta-ispolzuya-bash-i-python/)
-- [Создавайте красивые изображения с помощью CSS и прокачайте ваше портфолио](https://coderlog.top/programmirovanie/sozdavajte-krasivye-izobrazheniya-s-pomoshhju-css/)
-- [30 клавиатурных сокращений для Mac, о которых вы должны знать](https://coderlog.top/administrirovanie/30-klaviaturnyh-sokrashhenij-dlya-mac-o-kotoryh-vy-dolzhny-znat/)
-- [Правила безопасности Firebase](https://coderlog.top/bezopasnost/pravila-bezopasnosti-firebase/)
-- [Обновление основного алгоритма December 2020 Core Update [Анализ]](https://coderlog.top/seo/obnovlenie-osnovnogo-algoritma-december-2020-core-pdate-analiz/)
-- [Stonksmaster: Прогнозируйте цены на акции с помощью Python & ML](https://coderlog.top/programmirovanie/stonksmaster-prognozirujte-ceny-na-akcii-s-pomoshhju-python-ml/)
-- [Netflix открыла исходный код data science фреймворка Metaflow](https://coderlog.top/programmirovanie/netflix-otkryla-ishodnyj-kod-data-science-frejmvorka-metaflow/)
-- [FireEye, ведущая фирма кибербезопасности заявила что её взломали](https://coderlog.top/itnovosti/fireeye-vedushhaya-firma-kiberbezopasnosti-zayavila-chto-ejo-vzlomali/)
-- [Microsoft Office для Big Sur, Mac на базе M1](https://coderlog.top/itnovosti/microsoft-office-dlya-big-sur-mac-na-baze-m1/)
-- [Какая разница между CI и CD?](https://coderlog.top/administrirovanie/kakaya-raznica-mezhdu-ci-i-cd/)
-<!-- BLOG-POST-LIST:END -->
-</br></br>
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [ЧАТ БОТ VIBER НА PHP #2 | Создаем меню бота](https://www.youtube.com/watch?v=Ixe2kzBmhLg)
-- [ЧАТ БОТ VIBER НА PHP #1](https://www.youtube.com/watch?v=ATF7tN69xoQ)
-- [ТОКСИЧНОЕ КОМЬЮНИТИ LINUX ИЛИ КАК ПРОСТО ПЕРЕЙТИ С WINDOWS НА LINUX | ВЫБОР ДИСТРИБУТИВА, СОФТ](https://www.youtube.com/watch?v=ifydUW3KbEE)
-- [ДОМАШНИЙ СЕРВЕР #1 | ПОДКЛЮЧАЕМСЯ К СЕРВЕРУ ИЗ ИНТЕРНЕТА | CDLSSH Client](https://www.youtube.com/watch?v=adWX4Tj1U-8)
-- [КАК СТАТЬ ПРОГРАММИСТОМ С НУЛЯ В 2020? | Ответ от профессионала](https://www.youtube.com/watch?v=njd4-r84638)
-<!-- YOUTUBE:END -->
-</br></br>
