@@ -4,7 +4,7 @@
 
 ## I'm a Software engineer!
 - 📝 Author of [CoderLog IT News Portal](https://github.com/alexborsch/coderlog)
-- 📺 Author of the CoderLog YouTube channel
+- 📺 Author of the [CoderLog YouTube channel](https://www.youtube.com/channel/UCQFJjX4FFGp4zLWo1R-viKQ)
 - 🖥️ I develop web-sites and desktop software
 
 ### Social links:
