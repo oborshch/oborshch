@@ -41,7 +41,7 @@
 
 #### Warehouse Management System Specialist
 
-May 2021 to present</br>
+May 2021 - June 2022</br>
 **Аврора Мультимаркет**</br>
 *Administration and revision of Warehouse Management System warehouse logistics systems. G.O.L.D WMS by Symphony RetailAI*</br></br>
 
