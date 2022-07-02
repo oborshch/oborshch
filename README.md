@@ -19,21 +19,7 @@
 </br></br>
 ### 🖥️ Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="PHP" width="26px" src="https://coderlog.top/github/icons/php.svg" />
-<img align="left" alt="Python" width="26px" src="https://coderlog.top/github/icons/python.svg" />
-<img align="left" alt="Django" width="26px" src="https://coderlog.top/github/icons/django.svg" />
-<img align="left" alt="XML" width="26px" src="https://coderlog.top/github/icons/xml.svg" />
-<img align="left" alt="JSON" width="26px" src="https://coderlog.top/github/icons/json.svg" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Linux" width="26px" src="https://coderlog.top/github/icons/linux.svg" />
-
+[![My Skills](https://skillicons.dev/icons?i=python,django,php,wordpress,html,css,linux,bash,git,docker,vim,figma,md,arduino,raspberrypi,mysql,postgres,sqlite,redis&perline=8)](https://coderlog.top)
 </br>
 </br>
 
