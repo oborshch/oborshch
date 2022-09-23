@@ -1,6 +1,6 @@
 ### Hi there, I'm Oleksandr Borshch, Software Engineer from Ukraine 💻
 
-<img src="https://komarev.com/ghpvc/?username=alexborsch&style=flat"> [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&color=blue&link=https://coderlog.top/)](https://coderlog.top/)
+<img src="https://komarev.com/ghpvc/?username=alexborsch&style=flat"> [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&color=blue&link=https://coderlog.top/)](https://coderlog.top/) [![Resume](https://img.shields.io/badge/Resume-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&color=blue&link=https://oborshch.github.io/)](https://oborshch.github.io/)
 
 [![GitHub oborshch](https://img.shields.io/github/followers/oborshch?logo=github&color=blue&style=flat-square)](https://github.com/oborshch)
 [![Twitter: Oleksandr Borshch](https://img.shields.io/twitter/follow/o_borshch?logo=twitter&color=blue&style=flat-square)](https://twitter.com/o_borshch)
