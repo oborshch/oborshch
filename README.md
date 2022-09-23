@@ -51,31 +51,3 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-black?style=flat-square&logo=Raspberry-Pi)
 
 
-
-### Work experience
-
-#### Warehouse Management System Specialist
-
-May 2021 - June 2022</br>
-**Аврора Мультимаркет**</br>
-*Administration and revision of Warehouse Management System warehouse logistics systems. G.O.L.D WMS by Symphony RetailAI*</br></br>
-
-#### Software Engineer
-
-April 2017 - February 2021 (3 years 10 months)</br>
-**ТОВ ТД Интерелектро, UA Pryluky**</br>
-*Administration and revision of Warehouse Management System warehouse logistics systems. Specifically worked with the OHE.WMS solution from ConsID*</br></br>
-
-#### WEB development teacher
-
-Dec 2018 - Jan 2020 (1 year, 2 months)</br>
-**GO-IT Programming School (Pryluky)**</br>
-*Teaching WEB development for children. HTML, CSS, SQL, PHP, Python*</br></br>
-
-#### Senior PC operator
-
-Jun 2015 - Jan 2017 (1 year 8 months)</br>
-**ТД Ритейл Центр Pryluky**</br>
-*Worked with SAP ERP, SAP BW. Was trained in this system, has a certificate.*</br></br>
-
-
